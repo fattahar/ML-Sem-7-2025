@@ -58,7 +58,12 @@ The goal is to show proficiency in data preprocessing, feature engineering, mode
 ## 💻 How to Navigate
 
 The repository is structured as follows:
-├── Task1_Fraud_Detection.ipynb # Classification Task Code ├── Task2_Song_Regression.ipynb # Regression Task Code ├── Task3_Customer_Clustering.ipynb # Clustering Task Code ├── submission.csv # Output file for Task 1 ├── README.md # Project Documentation
+
+├── Task1_Fraud_Detection.ipynb   # Classification Task Code
+├── Task2_Song_Regression.ipynb   # Regression Task Code
+├── Task3_Customer_Clustering.ipynb # Clustering Task Code
+├── submission.csv                # Output file for Task 1
+├── README.md                     # Project Documentation
 ### How to Run the Notebooks
 1.  **Open in Google Colab:** It is recommended to run these notebooks in Google Colab for access to free GPU/TPU resources.
 2.  **Data Setup:**
