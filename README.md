@@ -59,6 +59,7 @@ The goal is to show proficiency in data preprocessing, feature engineering, mode
 
 The repository is structured as follows:
 
+```text
 ├── Task1_Fraud_Detection.ipynb   # Classification Task Code
 ├── Task2_Song_Regression.ipynb   # Regression Task Code
 ├── Task3_Customer_Clustering.ipynb # Clustering Task Code
